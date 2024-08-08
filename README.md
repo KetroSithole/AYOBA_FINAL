@@ -1,6 +1,9 @@
 
 
+
 # Ayoba Final Project
+
+![Project Screenshot](https://github.com/KetroSithole/AYOBA_FINAL/blob/main/Screenshot%202024-08-08%20224514.png)
 
 This project is a .NET Core Web API that manages products and admin information. It is built using ASP.NET Core, Entity Framework Core, and SQL Server, providing a RESTful API to perform CRUD operations on products and admin records.
 
@@ -114,3 +117,4 @@ Contributions are welcome! If you have suggestions, bug fixes, or new features, 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+---
