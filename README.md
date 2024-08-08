@@ -1,7 +1,5 @@
 
-
-
-# Ayoba Final Project
+# .NET Project
 
 ![Project Screenshot](https://github.com/KetroSithole/AYOBA_FINAL/blob/main/Screenshot%202024-08-08%20224514.png)
 
@@ -38,7 +36,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/ayoba-final-project.git
+    git clone https://github.com/KetroSithole/AYOBA_FINAL.git
     cd ayoba-final-project
     ```
 
@@ -118,3 +116,5 @@ Contributions are welcome! If you have suggestions, bug fixes, or new features, 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
+
+This `README.md` file provides a comprehensive overview of your project, including installation instructions, usage details, and contribution guidelines.****
