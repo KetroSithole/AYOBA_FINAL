@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AYOBA_FINAL.props" />
+</Project>
