@@ -116,5 +116,3 @@ Contributions are welcome! If you have suggestions, bug fixes, or new features, 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-This `README.md` file provides a comprehensive overview of your project, including installation instructions, usage details, and contribution guidelines.****
